@@ -33,3 +33,5 @@ driver.find_element_by_id('txtEasyCard4').send_keys('7123')
 
 driver.find_element_by_id('recaptcha-anchor').click()
 driver.find_element_by_xpath('/html/body/div[2]/div[3]/div[1]/div/div/span/div[5]').click()
+
+#test
